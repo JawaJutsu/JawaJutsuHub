@@ -1,0 +1,9 @@
+{
+  "game": "baddies-jump",
+  "version": "1.0.0",
+  "path": "games/baddies-jump/v1.0.0.lua",
+  "sha256": "4b65debc3260d73b4ac3ddf261fb0c2f29a14c733b9141d8dd601d772fb21e1a",
+  "bytes": 50146,
+  "status": "stable-potassium-tested",
+  "notes": "Hash pinned in loader; manifest is informational, not signed."
+}
